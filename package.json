@@ -10,8 +10,7 @@
     "lint": "scripts/lint.sh",
     "dev": "scripts/dev.sh",
     "build": "scripts/build.sh",
-    "test": "scripts/test.sh",
-    "prepublish": "scripts/build.sh"
+    "test": "scripts/test.sh"
   },
   "repository": {
     "type": "git",
@@ -50,7 +49,7 @@
     "axios": "^0.17.1",
     "bignumber.js": "^6.0.0",
     "typed-promisify": "^0.4.0",
-    "web3-provider-engine": "^13.6.5",
-    "wyvern-js": "git+https://github.com/ProjectOpenSea/wyvern-js.git#v4.0.1"
+    "web3-provider-engine": "^16.0.3",
+    "wyvern-js": "git+https://github.com/ProjectOpenSea/wyvern-js.git#josh/package-lock-npm"
   }
 }
